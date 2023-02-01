@@ -1,7 +1,10 @@
 # Book Recommendation System
+![book](https://user-images.githubusercontent.com/106606656/216013136-5be4021e-381d-44a0-9f32-a2b8009bbea3.png)
+
+
 ## Description:
 <p>A Book Recommendation System which recommends the users a selection of books based on their interests.</p>
-<p>Data used for this project was taken from <a href=http://www2.informatik.uni-freiburg.de/~cziegler/BX/>here</a></p>
+<p>Data used for this project was taken from <a href=http://www2.informatik.uni-freiburg.de/~cziegler/BX/>here.</a></p>
 
 ### 1. Data Cleaning and Pre-Processing
 The dataset consists of three tables; Books, Users, and Ratings. Data from all three tables are cleaned and preprocessed separately as defined below briefly:<br><br>
