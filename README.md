@@ -66,8 +66,6 @@ To train the Nearest Neighbours model, we have created a compressed sparse row m
 #### 2.6 Content Based Recommendation
 This system recommends books by calculating similarities in Book Titles. For this, TF-IDF feature vectors were created for unigrams and bigrams of Book-Titles; only those books' data has been considered which are having at least 80 ratings.
 
-#### 2.7 Hybrid Approach (Collaborative+Content) Recommendation
-A hybrid recommendation system was built using the combination of both content-based filtering and collaborative filtering systems. A percentile score is given to the results obtained from both content and collaborative filtering models and is combined to recommend top n books.
 
 ### 3. Libraries Used:
 
